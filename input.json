@@ -1,0 +1,10 @@
+[
+  {"click": [0, 1080]},
+  {"type": "Edge"},
+  {"enter": "true"},
+  {"wait": 5},
+  {"click": [370, 50]},
+  {"type": "youtube.com"},
+  {"wait": 1},
+  {"enter": "true"}
+  ]

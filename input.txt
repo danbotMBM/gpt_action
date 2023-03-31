@@ -1,0 +1,8 @@
+Certainly! Here are the step-by-step instructions with coordinates for every click required to open the OpenAI website on Microsoft Edge:
+
+{500, 1050} - Click on the Windows icon or press the Windows key on your keyboard to open the Start Menu.
+{960, 1015} - Click on the Microsoft Edge icon to open the browser.
+{130, 70} - Click on the address bar at the top of the window to activate it.
+Type "openai.com" into the address bar and press Enter on your keyboard.
+{1875, 70} - Click on the "Go" button to navigate to the OpenAI website.
+Please note that the actual coordinates may vary slightly based on the exact positioning of your screen and the size of the Edge window.
