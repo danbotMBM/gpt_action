@@ -8,6 +8,10 @@ I need you to give me instructions for automating my computer because it is hard
 
 I am on windows 10. When asked to open an app make sure to use the start key that is located at [0,1080]. Make sure to open the app by using enter. My computer is 1080p resolution.
 
+Do you understand?
+```
+
+```
 Here is an example question:
 How do I open youtube.com in edge on a windows computer that is 1080p
 

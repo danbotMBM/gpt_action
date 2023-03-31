@@ -1,10 +1,8 @@
 [
   {"click": [0, 1080]},
-  {"type": "Edge"},
+  {"type": "Git Bash"},
   {"enter": "true"},
-  {"wait": 5},
-  {"click": [370, 50]},
-  {"type": "youtube.com"},
-  {"wait": 1},
+  {"wait": 2},
+  {"type": "echo \"hello world\""},
   {"enter": "true"}
-  ]
+]
